@@ -10,7 +10,7 @@ A Fresh, New GitHub repo just waiting to be developed.  All contributors welcome
 
 ### Add your initials to the readme below:
 
-My Initials:  ____________
+My Initials:  MJR____________
 
 
 ### Create a file called "hello_<yourname>.txt"  and type a text greeting inside.
