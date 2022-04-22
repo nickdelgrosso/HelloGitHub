@@ -1,2 +1,2 @@
-# error: missing closing brackets
-print("Hello, world!"
+# corrected this statement:
+print("Hello, world!")
