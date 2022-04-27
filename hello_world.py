@@ -1,2 +1,3 @@
 # error: missing closing brackets
-print("Hello, world!"
+print("Hello, world!")
+"""Printing Hello"""
